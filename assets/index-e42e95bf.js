@@ -1,0 +1,1 @@
+import{_ as t,a as r,o as n,b as s,e as c}from"./index-42e3f373.js";const o={},a={class:""};function p(i,_){const e=r("my-progress");return n(),s("div",a,[c(e,{type:"circle",percentage:50,isAnimate:""}),c(e,{type:"circle",percentage:50,isAnimate:"",time:200}),c(e,{type:"circle",percentage:50}),c(e,{percentage:50})])}const l=t(o,[["render",p]]);export{l as default};
